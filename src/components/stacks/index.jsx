@@ -5,10 +5,12 @@ export function Stacks(){
         <div id="habilidades" className="habilidades">
         <h2>Minhas Habilidades</h2>
         <div className="cards">
-            <div className="card">
-                <img id="html" src="../../assets/html.png" alt="imagem de html"/>
-                <p>HTML</p>
-            </div>
+        <CardStack
+              id="html"
+              src="../../../src/assets/html.png"
+              alt="imagem html"
+              title="HTML"
+            />
             
 
             <CardStack
