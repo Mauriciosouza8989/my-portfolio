@@ -5,6 +5,7 @@ export function Stacks(){
         <div id="habilidades" className="habilidades">
         <h2>Minhas Habilidades</h2>
         <div className="cards">
+<<<<<<< HEAD
         <CardStack
               id="html"
               src="../../../src/assets/html.png"
@@ -12,6 +13,12 @@ export function Stacks(){
               title="HTML"
             />
             
+=======
+           <div className="card">
+                <img id="html" src="../../assets/html.png" alt="imagem de html"/>
+                <p>HTML</p>
+            </div>
+>>>>>>> a35b315232b90c9d467982fc176008549a9a1fe1
 
             <CardStack
               id="css"
