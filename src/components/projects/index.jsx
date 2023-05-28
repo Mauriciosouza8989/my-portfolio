@@ -9,7 +9,7 @@ export function Projects(){
 
             <CardProject
               deploy="https://focus-timer-dark-mode.netlify.app/"
-              src="../../../assets/timer.png"
+              src="../../../src/assets/timer.png"
               alt="imagem do projeto focus timer"
               title="Focus timer"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/n%C3%ADvel-5/focus-timer-darkMode"
@@ -17,7 +17,7 @@ export function Projects(){
 
             <CardProject
               deploy="https://page-of-login.netlify.app/"
-              src="../../assets/login.png"
+              src="../../../src/assets/login.png"
               alt="imagem do projeto login"
               title="Login"
               github="https://github.com/Mauriciosouza8989/projetos-youtube/tree/main/formulario-animado"
@@ -25,7 +25,7 @@ export function Projects(){
            
            <CardProject
               deploy="https://space-cream-responsive.netlify.app/"
-              src="../../assets/spaceCream.png"
+              src="../../../src/assets/spaceCream.png"
               alt="imagem do projeto spacecream"
               title="Space Cream"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/responsividade/space-cream-desktop"
@@ -33,7 +33,7 @@ export function Projects(){
            
            <CardProject
               deploy="https://jogo-da-velha-completo.netlify.app/"
-              src="../../assets/jogo-da-velha.png"
+              src="../../../src/assets/jogo-da-velha.png"
               alt="imagem do projeto Jogo da velha"
               title="Jogo da velha"
               github="https://github.com/Mauriciosouza8989/jogo-da-velha"
@@ -41,7 +41,7 @@ export function Projects(){
            
            <CardProject
               deploy="https://github-favorites-projeto.netlify.app/"
-              src="../../assets/favorites.png"
+              src="../../../src/assets/favorites.png"
               alt="imagem do projeto github favorites"
               title="Favoritos Github"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/nivel-6/desafio-favorites"
@@ -49,7 +49,7 @@ export function Projects(){
            
            <CardProject
               deploy="https://calculator-of-imc.netlify.app/"
-              src="../../assets/imc.png"
+              src="../../../src/assets/imc.png"
               alt="imagem do projeto IMC"
               title="IMC"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/n%C3%ADvel-5/calculo-IMC"
@@ -57,7 +57,7 @@ export function Projects(){
             
             <CardProject
               deploy="https://componente-trabalhos.netlify.app/"
-              src="../../assets/recents-works.png"
+              src="../../../src/assets/recents-works.png"
               alt="imagem do projeto recents works"
               title="Trabalhos recentes"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/responsividade/projeto02"
@@ -65,7 +65,7 @@ export function Projects(){
             
             <CardProject
               deploy="https://jogo-da-adivinhacao.netlify.app/"
-              src="../../assets/adivinhacao.png"
+              src="../../../src/assets/adivinhacao.png"
               alt="imagem do projeto adivinhação"
               title="Adivinhação"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/n%C3%ADvel-5/jogo-adivinhacao"
@@ -73,7 +73,7 @@ export function Projects(){
             
             <CardProject
               deploy="https://biscoito-dasorte.netlify.app/"
-              src="../../assets/biscoito.png"
+              src="../../../src/assets/biscoito.png"
               alt="imagem do projeto biscoito da sorte"
               title="Biscoito da sorte"
               github="https://github.com/Mauriciosouza8989/rocketseat/tree/main/n%C3%ADvel-5/biscoito-da-sorte"

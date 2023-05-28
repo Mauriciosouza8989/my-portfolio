@@ -7,56 +7,56 @@ export function Stacks(){
         <div className="cards">
             <CardStack
               id="html"
-              src="../../assets/html.png"
+              src="../../../src/assets/html.png"
               alt="imagem html"
               title="HTML"
             />
 
             <CardStack
               id="css"
-              src="../../assets/css3-logo.png"
+              src="../../../src/assets/css3-logo.png"
               alt="imagem css"
               title="CSS"
             />
             
             <CardStack
               id="js"
-              src="../../assets/js1.png"
+              src="../../../src/assets/js1.png"
               alt="imagem javascript"
               title="JAVASCRIPT"
             />
           
           <CardStack
               id="github"
-              src="../../assets/github-mark/github-mark.svg"
+              src="../../../src/assets/github-mark/github-mark.svg"
               alt="imagem github"
               title="GITHUB"
             />
             
             <CardStack
               id="linux"
-              src="../../assets/linux.png"
+              src="../../../src/assets/linux.png"
               alt="imagem linux"
               title="LINUX"
             />
             
             <CardStack
               id="node"
-              src="../../assets/node.png"
+              src="../../../src/assets/node.png"
               alt="imagem do nodejs"
               title="NODE JS"
             />
 
             <CardStack
               id="react"
-              src="../../assets/react.png"
+              src="../../../src/assets/react.png"
               alt="imagem da lib react"
               title="REACT JS"
             />
             
             <CardStack
               id="sql"
-              src="../../assets/sqlite.png"
+              src="../../../src/assets/sqlite.png"
               alt="imagem de banco de dados sql"
               title="SQLITE"
             />
