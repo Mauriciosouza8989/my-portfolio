@@ -50,7 +50,7 @@ export function Stacks(){
             <CardStack
               id="react"
               src="../src/assets/react.png"
-              alt="imagem do framework react"
+              alt="imagem da lib react"
               title="REACT JS"
             />
             

@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Container = styled.header `
     width: 100%;
 
+    box-shadow: 0 0 20px 3px;
     header {
     width: 100vw;
     background-color: rgb(24, 22, 22);
@@ -57,6 +58,7 @@ export const Container = styled.header `
             gap: 15px;
         }
         #menu {
+            
             display: none;
             justify-content: center;
             align-items: center;
@@ -70,7 +72,9 @@ export const Container = styled.header `
             width: 100%;
             text-align: center;
         }
+      
         #menu li a:hover {
+            
             background-color: none;
             border-bottom: 2px solid #0f0;
         }
