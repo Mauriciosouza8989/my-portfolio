@@ -7,7 +7,7 @@ export function Stacks(){
         <div className="cards">
             <CardStack
               id="html"
-              src="../../../src/assets/html.png"
+              src="https://github.com/Mauriciosouza8989/my-portfolio/blob/main/src/assets/html.png"
               alt="imagem html"
               title="HTML"
             />
