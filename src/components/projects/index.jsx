@@ -8,7 +8,7 @@ export function Projects(){
         <div className="cards">
 
             <CardProject
-              deploy="https://focus-timer-dark-mode.netlify.app/"
+              deploy="https://www.bing.com/ck/a?!&&p=14307d371647ea1dJmltdHM9MTY4NTMxODQwMCZpZ3VpZD0yOTc5MmNkNy1jNjY3LTY1MGEtMGNkZC0zZGE0YzdiZTY0NjMmaW5zaWQ9NTU3OA&ptn=3&hsh=3&fclid=29792cd7-c667-650a-0cdd-3da4c7be6463&u=a1L2ltYWdlcy9zZWFyY2g_cT10aW1lciBpbWFnZSZGT1JNPUlRRlJCQSZpZD0xRUI2OTVEMjZFQkRBOTA4M0U2MUYxQjRGQjQ5Q0U2QjFDRjNBRDVB&ntb=1"
               src="../../../src/assets/timer.png"
               alt="imagem do projeto focus timer"
               title="Focus timer"
