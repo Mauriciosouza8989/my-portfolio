@@ -8,57 +8,57 @@ export function Stacks(){
 
         <CardStack
               id="html"
-              src="../../../src/assets/html.png"
+              src="https://i.ibb.co/nPxkF7r/html.png"
               alt="imagem html"
               title="HTML"
             />
             
             <CardStack
               id="css"
-              src="../../../src/assets/css3-logo.png"
+              src="https://i.ibb.co/0jd6rtm/css3-logo.png"
               alt="imagem css"
               title="CSS"
             />
             
             <CardStack
               id="js"
-              src="../../../src/assets/js1.png"
+              src="https://i.ibb.co/wgvPQcv/js1.png"
               alt="imagem javascript"
               title="JAVASCRIPT"
             />
           
           <CardStack
               id="github"
-              src="../../../src/assets/github-mark/github-mark.svg"
+              src="https://i.ibb.co/PxWdgJ9/github-mark.png"
               alt="imagem github"
               title="GITHUB"
             />
             
             <CardStack
               id="linux"
-              src="../../../src/assets/linux.png"
+              src="https://i.ibb.co/N2Xk7nR/linux.png"
               alt="imagem linux"
               title="LINUX"
             />
             
             <CardStack
               id="node"
-              src="../../../src/assets/node.png"
+              src="https://i.ibb.co/L6V9g9c/node.png"
               alt="imagem do nodejs"
               title="NODE JS"
             />
 
             <CardStack
               id="react"
-              src="../../../src/assets/react.png"
+              src="https://i.ibb.co/zSg2Pz9/react.png"
               alt="imagem da lib react"
               title="REACT JS"
             />
             
             <CardStack
               id="sql"
-              src="../../../src/assets/sqlite.png"
-              alt="imagem de banco de dados sql"
+              src="https://i.ibb.co/dtKVXVW/sqlite.png"
+              alt="imagem de banco de dados sqlite"
               title="SQLITE"
             />
            
