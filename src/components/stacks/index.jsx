@@ -54,6 +54,13 @@ export function Stacks(){
               alt="imagem da lib react"
               title="REACT JS"
             />
+
+            <CardStack
+              id="styled-components"
+              src="https://miro.medium.com/max/636/1*7jRD5QhgARucFKvRHFxpOg.png"
+              alt="imagem do styled-components"
+              title="STYLED-COMPONENTS"
+            />
             
             <CardStack
               id="sql"
