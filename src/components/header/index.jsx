@@ -9,12 +9,12 @@ export function Header(){
 
     function ChangeMenu(){
         if(!showMenu){
-            setMenu("../../../src/assets/x.svg")
+            setMenu("https://i.ibb.co/SKN5mV4/x.png")
             setShowMenu(true)
             menuMobile.style.display = "flex"
             return
         }
-        setMenu("../../../src/assets/list.svg")
+        setMenu("https://i.ibb.co/m6BPww3/list.png")
         setShowMenu(false)
         menuMobile.style.display = "none"
 
