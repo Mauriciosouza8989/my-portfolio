@@ -50,7 +50,7 @@ export function Stacks(){
 
             <CardStack
               id="react"
-              src="https://i.ibb.co/zSg2Pz9/react.png"
+              src="https://i.ibb.co/3zkWT2h/react.png"
               alt="imagem da lib react"
               title="REACT JS"
             />
