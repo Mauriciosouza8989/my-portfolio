@@ -18,7 +18,7 @@ export const Container = styled.header `
     }
 
     .Mobile {
-        width: 40px;
+        max-width: 40px;
         height: 40px;
         display: none;
         cursor: pointer;
@@ -80,7 +80,7 @@ export const Container = styled.header `
         }
         .Mobile {
             display: flex;
-            width: 100%;
+            width: 40px;
         }
     }
     
