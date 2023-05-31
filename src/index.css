@@ -176,7 +176,6 @@ h2 {
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url('../images/timer.png');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px 20px 0 0;
@@ -265,6 +264,9 @@ h2 {
 }
 
 @media(max-width: 550px) {
+    #root{
+        background-color:  rgba(0, 0, 0, .8);
+    }
 
     #foto {
         max-width: 100vw;
@@ -276,6 +278,7 @@ h2 {
     .descricao {
         margin: 0 10px;
     }
+
 
 }
 
