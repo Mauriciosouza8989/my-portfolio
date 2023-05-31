@@ -3,7 +3,7 @@ import { useState } from "react"
 
 
 export function Header(){
-    const [menu, setMenu] = useState("../../../src/assets/list.svg")
+    const [menu, setMenu] = useState("https://i.ibb.co/m6BPww3/list.png")
     const [showMenu, setShowMenu] = useState(null)
     const menuMobile = document.getElementById("menu")
 
