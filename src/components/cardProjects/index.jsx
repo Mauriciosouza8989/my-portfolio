@@ -1,15 +1,16 @@
 /* eslint-disable react/prop-types */
+import { Link } from 'react-router-dom'
 
 
 export function CardProject({deploy, github, src, alt, title }){
     return(
         <div className="card">
-        <a href={deploy} target="blank">
+        <Link to={deploy} target="_blank">
             <img src={src} alt={alt}/>
-        </a>
+        </Link>
         <p>{title}</p>
-        <a href={deploy} target="blank">Ver site</a>
-        <a href={github} target="blank">Ver no github</a>
+        <Link to={deploy} target="_blank">Ver site</Link>
+        <Link to={github} target="_blank">Ver no github</Link>
     </div>
     )
 }
